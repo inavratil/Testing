@@ -6,3 +6,6 @@
 // STL
 #include <vector>
 #include <map>
+
+// OpenCL
+#include <Cl/OpenCL.h>
