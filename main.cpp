@@ -12,7 +12,7 @@ int main()
   cout << "The End" << endl;
   
   cout << "Timmy" << endl;
-  cout << "Bubla" << endl;
+  cout << "Bubla is the best!" << endl;
 
 	return 0;
 }
