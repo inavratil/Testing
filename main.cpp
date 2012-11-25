@@ -1,5 +1,10 @@
 #include "main.h"
 
+void add( int a, int b )
+{
+  return a+b;
+}
+
 using namespace std;
 int main()
 {
